@@ -1,7 +1,10 @@
- 
+if (you.reading) { // the stuff in this if then is stuff from me ( trex )
+hi this will be used for the open source builds of snakey shalye my first project
+if you want to get open source builds after 1.0.0 it will be on a gamejolt link
+and please note that this is currently a alpha 
+}
 
-
-> Open this page at [https://trexdoesstuff.github.io/snakey-shlaye_open-source-build/](https://trexdoesstuff.github.io/snakey-shlaye_open-source-build/)
+ > Open this page at [https://trexdoesstuff.github.io/snakey-shlaye_open-source-build/](https://trexdoesstuff.github.io/snakey-shlaye_open-source-build/)
 
 ## Use as Extension
 
